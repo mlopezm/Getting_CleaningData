@@ -7,6 +7,7 @@ output: html_document
 The data in tidy_data contains the means of the variables by Subject and Activity.
 
 This document shows the variables present in the data, which are:
+
  [1] "tBodyAcc-mean()-X"               "tBodyAcc-mean()-Y"              
  [3] "tBodyAcc-mean()-Z"               "tBodyAcc-std()-X"               
  [5] "tBodyAcc-std()-Y"                "tBodyAcc-std()-Z"               
