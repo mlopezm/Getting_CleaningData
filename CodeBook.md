@@ -4,8 +4,9 @@ author: "Manuel L Martin"
 date: "Thursday, July 24, 2014"
 output: html_document
 ---
+The data in tidy_data contains the means of the variables by Subject and Activity.
 
-This document present the variables present in the data, which are:
+This document shows the variables present in the data, which are:
  [1] "tBodyAcc-mean()-X"               "tBodyAcc-mean()-Y"              
  [3] "tBodyAcc-mean()-Z"               "tBodyAcc-std()-X"               
  [5] "tBodyAcc-std()-Y"                "tBodyAcc-std()-Z"               
